@@ -1,0 +1,22 @@
+Cut Settings:
+  Layer 00 (Black)
+    Speed: 100.0 (mm/sec)
+    Output: True
+    Max Power: 10.00%
+    Air Assist: True
+    Min Power: 10.00%
+    Mode: Image
+    Image Settings:
+      Bi-directional Scanning: True
+      DPI: 600
+      Image Mode: Atkinson
+      Number of Passes: 1
+      (Rest as default)
+  Layer 01 (Blue)
+    Speed: 10.0 (mm/sec)
+    Output: True
+    Max Power: 50.00%
+    Air Assist: True
+    Min Power: 50.00%
+    Mode: Line
+      (Rest as default)
